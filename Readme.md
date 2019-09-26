@@ -3,11 +3,10 @@
 
 * [Form1.cs](./CS/Dashboard_CreateChoroplethMap/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_CreateChoroplethMap/Form1.vb))
 <!-- default file list end -->
-# How to bind a Choropleth Map dashboard item to data in code
+# How to Bind a Choropleth Map Dashboard Item to Data at Runtime
 
 
-<p>The following example demonstrates how to bind a <a href="https://documentation.devexpress.com/#Dashboard/CustomDocument16487">Choropleth Map dashboard item</a> to data in code.</p>
+This example demonstrates how to bind a [Choropleth Map dashboard item](https://docs.devexpress.com/Dashboard/16487) to data in code.</p>
 
-<br/>
-
+![screenshot](/images/screenshot.png)
 
